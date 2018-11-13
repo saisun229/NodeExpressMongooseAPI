@@ -1,0 +1,15 @@
+{
+  "name": "nodeexp",
+  "version": "1.0.0",
+  "description": "Simple Knowledge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "sai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  }
+}
